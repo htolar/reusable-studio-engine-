@@ -36,6 +36,10 @@ Its still not a 3d hand I its also hard to see all the parts when they are stack
 
 can you make it WAY more relistic and make it 3D as in you can rotate it also there doesnt need to be a hand around each part its also still kinda hard to see make it so you can drag your cursor around to see the parts but you cant move the hands
 
+## Prompt 11
+
+for some reason I cant deploy to netlify can you help
+
 ## Prompt 10
 
 ok put some screenshot in the screenshots folder of the differnt verions

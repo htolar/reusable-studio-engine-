@@ -2,14 +2,15 @@
   "name": "reusable-studio-engine",
   "private": true,
   "type": "module",
+  "scripts": {
+    "build": "node node_modules/vite/bin/vite.js build",
+    "dev": "vite",
+    "preview": "vite preview"
+  },
   "dependencies": {
     "three": "^0.178.0"
-  }
-}{
-  "name": "reusable-studio-engine",
-  "private": true,
-  "type": "module",
-  "dependencies": {
-    "three": "^0.178.0"
+  },
+  "devDependencies": {
+    "vite": "^7.1.3"
   }
 }
