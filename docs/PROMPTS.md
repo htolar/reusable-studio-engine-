@@ -40,6 +40,10 @@ can you make it WAY more relistic and make it 3D as in you can rotate it also th
 
 for some reason I cant deploy to netlify can you help
 
+## Prompt 12
+
+now Its to far below the page where I just cant see the slider also the thumb is a little funky
+
 ## Prompt 10
 
 ok put some screenshot in the screenshots folder of the differnt verions
