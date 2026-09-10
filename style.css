@@ -50,6 +50,53 @@ h1 {
 	display: block;
 	width: 100%;
 	min-height: 18rem;
+	touch-action: none;
+	cursor: grab;
+}
+
+#studio-canvas:active {
+	cursor: grabbing;
+}
+
+.viewer {
+	position: relative;
+	min-height: 18rem;
+}
+
+.anatomy-key {
+	position: absolute;
+	top: 1rem;
+	right: 0;
+	display: grid;
+	gap: 0.5rem;
+	margin: 0;
+	padding: 0;
+	color: #36534a;
+	font-family: 'Courier New', monospace;
+	font-size: 0.7rem;
+	letter-spacing: 0.06em;
+	list-style: none;
+	text-transform: uppercase;
+}
+
+.anatomy-key li {
+	display: flex;
+	align-items: center;
+	gap: 0.45rem;
+}
+
+.swatch {
+	display: inline-block;
+	width: 0.55rem;
+	height: 0.55rem;
+	border-radius: 50%;
+}
+
+.swatch--skin { background: #d58e79; }
+.swatch--muscle { background: #a94739; }
+.swatch--ligament { background: #d5aa4d; }
+.swatch--bone { background: #eee7d8; border: 1px solid #a99f8d; }
+.swatch--vein { background: #4777a8; }
 }
 
 .reveal-control {
@@ -81,5 +128,13 @@ input[type='range']:focus-visible {
 
 	h1 {
 		font-size: clamp(2.5rem, 15vw, 4rem);
+	}
+
+	.anatomy-key {
+		top: auto;
+		bottom: 1rem;
+		left: 0;
+		right: auto;
+		grid-template-columns: repeat(2, max-content);
 	}
 }

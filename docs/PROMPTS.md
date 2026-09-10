@@ -23,3 +23,19 @@ No just what I said to you dont edit it
 ## Prompt 6
 
 make sure EVERY TIME I ask you to do something you put it in PROMPTS.md ok. Also I want a hand that comes aprt showing bone skin mucle ligaments and vains and all that stuff please make it happen.
+
+## Prompt 7
+
+It kind of goes off screen when you do the slider also always make the hand visible. I also want it to be 3d use assets as refrence
+
+## Prompt 8
+
+Its still not a 3d hand I its also hard to see all the parts when they are stacked on each other like that. Also in the assests folder use the png images as refrences to how I want it to look.
+
+## Prompt 9
+
+can you make it WAY more relistic and make it 3D as in you can rotate it also there doesnt need to be a hand around each part its also still kinda hard to see make it so you can drag your cursor around to see the parts but you cant move the hands
+
+## Prompt 9
+
+can you make it WAY more relistic and make it 3D as in you can rotate it also there doesnt need to be a hand around each part its also still kinda hard to see make it so you can drag your cursor around to see the parts but you cant move the hands

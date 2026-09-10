@@ -1,0 +1,15 @@
+{
+  "name": "reusable-studio-engine",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "three": "^0.178.0"
+  }
+}{
+  "name": "reusable-studio-engine",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "three": "^0.178.0"
+  }
+}
