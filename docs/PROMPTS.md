@@ -44,6 +44,10 @@ for some reason I cant deploy to netlify can you help
 
 now Its to far below the page where I just cant see the slider also the thumb is a little funky
 
+## Prompt 13
+
+now it doesnt work on netlify
+
 ## Prompt 10
 
 ok put some screenshot in the screenshots folder of the differnt verions
