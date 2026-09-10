@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Reusable Studio Engine</title>
+		<link rel="stylesheet" href="./style.css" />
+	</head>
+	<body>
+		<main class="studio" aria-labelledby="studio-title">
+			<header class="studio__header">
+				<p class="eyebrow">Reusable Studio Engine</p>
+				<h1 id="studio-title">Reveal the structure</h1>
+			</header>
+
+			<canvas id="studio-canvas" aria-label="Interactive reveal preview"></canvas>
+
+			<label class="reveal-control" for="reveal-slider">
+				<span>Reveal</span>
+				<input id="reveal-slider" type="range" min="0" max="1" step="0.001" value="0" />
+			</label>
+		</main>
+		<script type="module" src="./main.js"></script>
+	</body>
+</html>
