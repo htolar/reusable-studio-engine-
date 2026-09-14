@@ -1,3 +1,10 @@
+## Prompt 28
+
+Not what I ment I want the parts to still go out the back and dont change the skin
+
+## Prompt 29
+
+for some reason the mussle wont come out I want to see each part individually
 # AI Prompts
 
 ## Prompt 1
@@ -47,6 +54,34 @@ now Its to far below the page where I just cant see the slider also the thumb is
 ## Prompt 13
 
 now it doesnt work on netlify
+
+## Prompt 14
+
+can you publish it on netlify because it still wont let me name it the workinprogress
+
+## Prompt 15
+
+actually just give me the folder that I can publish to netlify
+
+## Prompt 16
+
+the thumb is still broken also make it even more relisitic especially with ligaments and veins also go outside of just those things add other parts to but make it as relistic as possible
+
+## Prompt 17
+
+make all the existing stuff more relistic also it sticks out of the original hand use the refrences
+
+## Prompt 18
+
+NO the thumb is still broken I want the THUMB to be regualr and I can see all of the veins and stuff even when the slider is at 0. Also I want to be able to see everything when I do the slider so dont layer the things. Also make everything more relistic like the assets
+
+## Prompt 19
+
+Okay make it so that when the slider is at 0 its a regualar hand when its at full you can see each part individually and when I mean realistic I mean like less cartoony
+
+## Prompt 20
+
+Thr hands thumb is sticking down
 
 ## Prompt 10
 
